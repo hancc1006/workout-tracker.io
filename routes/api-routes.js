@@ -6,6 +6,7 @@
 // =============================================================
 
 const Workout = require("../models/Workout");
+const mongoose = require("mongoose");
 // Routes
 // =============================================================
 module.exports = function(app) {
